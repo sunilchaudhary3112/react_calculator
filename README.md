@@ -1,8 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-#Simple Apple MacOs/iOS calculator built with React 
+# Simple Apple MacOs/iOS calculator built with React 
 
-#Demo
+# Demo
 <center><img src="https://raw.githubusercontent.com/sunilchaudhary3112/react_calculator/master/demo_calculator.JPG" /></center>
 
 ## Features
